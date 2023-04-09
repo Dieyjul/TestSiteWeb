@@ -9,7 +9,7 @@ ul,ol
 }
 body
 {
-    background: #bfbfbf url('images/bon.jpg') repeat-x;
+    background: #bfbfbf url('bon.jpg') repeat-x;
     font-family: Arial, sans-serif;
 }
 
@@ -54,7 +54,7 @@ header h1
     width: 140px;
     height: 500px;
     cursor: pointer;
-    background: url('images/imgab.jpg') no-repeat;
+    background: url('imgab.jpg') no-repeat;
     opacity: 0.7;
 }
 .color
@@ -64,7 +64,7 @@ header h1
     width: 140px;
     height: 500px; 
     cursor: pointer;
-    background: url('images/imga.jpg') no-repeat;
+    background: url('imga.jpg') no-repeat;
 }
 
 #parte2 div
